@@ -3,6 +3,8 @@ Retrofit-OkHttp-RxAndroid-Glide-EventBus 通用Demo
 
 > 可以把它作为一个应用程序的通用框架
 
+![](https://raw.githubusercontent.com/IvyZh/SimpleRetrofitDemo/master/cover.png)
+
 
 ## 步骤
 
